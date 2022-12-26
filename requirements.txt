@@ -6,7 +6,6 @@ fonts
 font-roboto
 gfpgan
 gradio==3.9
-invisible-watermark
 numpy
 omegaconf
 opencv-python
